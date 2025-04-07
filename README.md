@@ -20,7 +20,7 @@
 - Máy khách: **Máy tính, điện thoại, máy tính bảng**.
 - Giao tiếp qua **HTTP/HTTPS** để đảm bảo an toàn & hiệu quả.
 - Máy chủ xử lý yêu cầu và trả về nội dung phù hợp.
-![[Pasted image 20250403143904.png]]
+![](attachment/05faf8332e7ca109c53d06fb69fc99e0.png)
 #### 5. Mạng máy tính là gì?
 - Tập hợp thiết bị kết nối để **trao đổi dữ liệu & tài nguyên** qua **giao thức & phương tiện truyền thông**.
 - **Yêu cầu bắt buộc** để Website hoạt động.
@@ -61,7 +61,7 @@
     4. Nếu cần, máy chủ ứng dụng lấy **dữ liệu từ máy chủ dữ liệu**.
     5. HTML được **tạo động** và gửi lại trình duyệt qua **HTTP Response**.
     6. Trình duyệt **hiển thị nội dung**.
-![[Pasted image 20250403144311.png]]
+![](attachment/c15dd31928a617c6993dea589f4df6a8.png)
 
 #### 10. Công nghệ Web động
 - **Máy chủ Web**: IIS, Apache, Nginx...
@@ -91,7 +91,7 @@
 3. **Path (Đường dẫn)**: Xác định tài nguyên trên máy chủ Web.
 4. **Parameters (Tham số)**: Gửi kèm dữ liệu đến máy chủ (dạng `key=value`).
 5. **Anchor (Hash #)**: Đánh dấu vị trí trong tài liệu HTML, giúp điều hướng nhanh.
-![[Pasted image 20250403144432.png]]
+![](attachment/1458109ca10c37eac69f356455ae6230.png)
 
 #### 15. Trình duyệt Web là gì?
 - **Phần mềm** giúp **truy cập thông tin trên Internet**.
@@ -102,7 +102,7 @@
 - Đảm bảo **tương thích & trải nghiệm nhất quán** trên nhiều trình duyệt.
 
 #### 17. Quy trình phát triển web
-![[Web Design Process.excalidraw|1000]]
+![](attachment/6299a2d558e7e1fafd962af7d6e9d4ac.excalidraw)
 #### 20. Các nguyên tắc thiết kế Web cơ bản?
 - Hiển thị **thông tin quan trọng trong màn hình đầu tiên**.
 - **Nhóm các mục liên quan**, giới hạn số lượng nhóm.
@@ -148,7 +148,7 @@
 - **CSS2** (05/1998): Kế thừa CSS1, bổ sung thiết lập vị trí. CSS2.1 sửa lỗi và bổ sung một số nội dung.
 - **CSS3** (1999): Thêm các định dạng như bo góc, đổ bóng, chuyển động, flexbox, grid layout.
 #### 27. JS trên web server
-![[Pasted image 20250403151240.png]]
+![](attachment/a2e9fc9bcbe982916a0d90a6c406d26c.png)
 #### 28. Các loại dịch vụ lưu trữ Web
 - **Web hosting**: Lưu nhiều Web trên 1 máy chủ. Mỗi Web có phân vùng riêng. Kinh tế → chia sẻ chi phí.
 - **Windows hosting**: Lưu Web trên máy chủ chạy **Windows Server**.
@@ -848,7 +848,7 @@ body{
 ## Entry
 - Box modeling: content, padding, border, margin
 - Các yêu tố cần để ý trước khi code:
-	- Mô hình hộp (Box model): hiểu rõ về mô hình hộp và các khái niệm liên quan như kích thước, khoảng cách, viền và cách nó áp dụng cho các phần tử HTML.![[Pasted image 20250405001151.png|400]]
+	- Mô hình hộp (Box model): hiểu rõ về mô hình hộp và các khái niệm liên quan như kích thước, khoảng cách, viền và cách nó áp dụng cho các phần tử HTML.![](attachment/c892ac372f852d73de912915ad9b3509.png)
 	- Thuộc tính hiển thị (Display): xác định cách mà một phần tử HTML hiển thị trên trang.
 	- Căn chỉnh (Alignment): sử dụng các thuộc tính text-align, vertical-align và line-height để căn chỉnh văn bản và phần tử linh hoạt.
 	- Vị trí (Positioning): sử dụng thuộc tính position để kiểm soát vị trí của phần tử trên trang. Khi viết mã, cần hiểu rõ về các giá trị như relative, absolute, fixed và sticky.
@@ -935,7 +935,7 @@ divFlex.items{
 	align-self: auto/flex-start/flex-end/baseline;
 }
 ```
-![[Pasted image 20250406224811.png]]
+![](attachment/ec633902a1dbd39e8dc4d776b44d092a.png)
 - Positioning: `static, relative fixed, absolute, sticky, z-index`
 - Overflow: `hidden, visible, scroll, auto`
 ## Responsive Design
